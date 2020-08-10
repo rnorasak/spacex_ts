@@ -23,7 +23,7 @@ const Rockets: React.FC<Props> = (props) => {
         ))}
         <img
           className="img-fluid"
-          src="public\shuttles.png"
+          src="https://res.cloudinary.com/travelographer/image/upload/v1597029120/shuttles_aoxz2e.png"
           alt="..."
           style={{ backgroundColor: 'white' }}
         />
