@@ -1,7 +1,7 @@
 {
   "name": "typetest",
   "version": "0.1.0",
-  "description": "Spacex Missons Info",
+  "description": "Spacex Mission Panel",
   "engines": {
     "node": "14.x"
   },
