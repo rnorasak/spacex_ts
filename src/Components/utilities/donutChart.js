@@ -11,12 +11,14 @@ const DonutChart = (props) => {
         options={{
           title: {
             display: false,
-            text: '',
-            fontSize: 20,
           },
           legend: {
             display: true,
             position: 'right',
+            labels: {
+              fontSize: 15,
+              fontColor: '#d7dade',
+            },
           },
         }}
       />
